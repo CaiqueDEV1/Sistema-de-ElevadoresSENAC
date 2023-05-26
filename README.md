@@ -1,3 +1,3 @@
-<h1 style="color:red">Foguete não dá ré!</h1>
+<h1>Foguete não dá ré!</h1>
 
 <h3> Você foi contratado para desenvolver um sistema que simule o funcionamento de um elevador em um prédio. Para isso, você precisa criar uma classe chamada Elevador que armazene as informações relevantes e disponibilize métodos para controlar seu funcionamento. </h3>
